@@ -1,0 +1,48 @@
+#content_table {
+	border-radius: 16px;
+	border: 1px solid #6B9941;
+	background-color: #FFFFFF
+}
+
+body {
+	background-color: #A1CA46
+}
+
+#features_list li {
+	margin: 15px;
+}
+
+#articles_list li {
+	margin: 15px;
+	list-style-type: square
+}
+
+#main_menu, #main_menu li {
+	margin: 4px;
+	padding: 0;
+}
+
+#main_menu {
+	background: #6B9941;
+	border-radius: 4px;
+}
+
+#main_menu li{
+	display: inline-block;
+	text-align: center;
+	/* width: 20% */
+}
+
+#main_menu a {
+	font-size: 110%;
+	display: block;
+	padding: 5px 15px;
+	color: black;
+	text-decoration: none;
+	/* margin-right: 2px;
+	background: #6B9941 */
+}
+
+#main_menu a:hover {
+	background: #8FB96A;
+}
