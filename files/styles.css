@@ -46,3 +46,8 @@ body {
 #main_menu a:hover {
 	background: #8FB96A;
 }
+
+#main_menu li#lang_switch {
+	float: right;
+	margin: 3px;
+}
