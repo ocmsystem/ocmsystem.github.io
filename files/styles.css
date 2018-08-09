@@ -51,3 +51,8 @@ body {
 	float: right;
 	margin: 3px;
 }
+
+#main_menu li#lang_switch img {
+	border: 0;
+	vertical-align: top
+}
